@@ -1,5 +1,0 @@
-module: myproject1111111111111111111111111111
-env: dev
-debug: true
-serverhost: example.com
-serverport: 8080
